@@ -7,8 +7,8 @@
 
 - :mortar_board: I was awarded a Ph.D. in engineering physics from the Institute for Computational Physics, University of Stuttgart, Germany in 2017. During that period, I 
 also served as guest researcher in Ångström Laboratory, Uppsala University, Sweden. 
-  - I was researching :computer: electronic transport/ quantum information science of nanosensors: (1) quantum 
-tunneling across functionalized gold electrodes for nextgen DNA sequencing (2) 2D materials for gas sensing and DNA sequencing. 
+  - I was researching :computer: electronic transport/ quantum information science of nanosensors: (1) [quantum 
+tunneling across functionalized gold electrodes for nextgen DNA sequencing](https://pubs.rsc.org/en/content/articlehtml/2016/nr/c6nr00500d) (2) 2D materials for [gas sensing](https://pubs.rsc.org/en/content/articlelanding/2019/ta/c9ta00674e/unauth) and [DNA sequencing](https://pubs.rsc.org/en/content/articlehtml/2020/nr/d0nr04363j). 
 
 ### Publications 📜
 - [Google Scholar Page](https://scholar.google.com/citations?user=NLboWmcAAAAJ&hl=en)
