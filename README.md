@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an Assistant Computational Scientist at the Data Science and Learning Division at the Argonne National Laboratory.
+- 👋 Hi, I’m an **Assistant Computational Scientist at the Data Science and Learning Division at the Argonne National Laboratory**.
 
 - :computer::thinking: I spend a lot of time thinking about problems at the interface of computational physics, chemical physics, and machine learning.
 
